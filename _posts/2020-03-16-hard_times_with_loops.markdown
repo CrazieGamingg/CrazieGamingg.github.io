@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hard Times With Loops"
-date:       2020-03-16 10:07:38 +0000
+date:       2020-03-16 06:07:39 -0400
 permalink:  hard_times_with_loops
 ---
 
