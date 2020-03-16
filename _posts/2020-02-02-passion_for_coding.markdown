@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Passion For Coding"
-date:       2020-02-02 23:53:12 +0000
+date:       2020-02-02 18:53:13 -0500
 permalink:  passion_for_coding
 ---
 
